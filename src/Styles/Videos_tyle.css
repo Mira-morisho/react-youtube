@@ -1,0 +1,62 @@
+.videos{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 195px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+p{
+    width: 300px;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+}
+.images{
+    width: 90%;
+    height: 300px;
+    margin: 5%;
+    margin-left: 5%;
+    margin-top: 15%;
+    padding: 20px;
+    background-color: rgb(124, 80, 80);
+    border-radius: 10px;
+}
+
+.images:hover{
+    border: 1px solid rgb(144, 153, 153);
+    background-color: black;
+}
+
+img{
+    width: 90%;
+}
+/** lire video**/
+
+.video_lecture{
+    height: 500px;
+    margin-left: 30%;
+  width: 800px;
+    margin-top: 5%;
+}
+
+.video{
+    color: white;
+}
+.main_side{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 195px;
+    margin-left: 30%;
+    width: 500px;
+    height: 500px;
+
+}
+
+         

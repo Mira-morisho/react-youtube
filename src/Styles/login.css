@@ -1,0 +1,53 @@
+
+
+
+.main__side{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+ 
+  .pagepricipal{
+width: 2px;
+  }
+
+  .login{
+  border: 1PX solid rgb(235, 226, 226);
+  border-radius: 15px;
+ text-align: center;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 5%;
+ background-color: black;
+
+  }
+  .login h1{
+    padding-top: 7%;
+  }
+
+  .btn-login{
+    width: 300px;
+    border-radius: 15px;
+    height: 45px;
+    margin-top: 5%;
+    background-color:  rgb(177, 75, 75);
+    color: white;
+  }
+  .acceuil{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+  }
+  .titre{
+    color: rgb(177, 75, 75);
+  }
+  /* LOgout*/
+  .btn-logout{
+    width: 190px;
+    height: 35px;
+    background-color:  rgb(177, 75, 75);
+    border-radius: 10px;
+    color: white;
+   
+  }
